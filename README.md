@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Steorra
+### Hi there 👋 I'm Yuzee
 
 I'm a passionate student and developer who loves building web applications and learning new technologies. Currently working on an **online auction system** using **pure PHP/Java**, and exploring the world of backend development 🚀
 
