@@ -21,6 +21,11 @@ My goal is to grow as a full-stack developer and one day build something meaning
 
 ---
 
+### 📌 Fun Facts
+
+- ENFJ
+
+---
 ### 🧠 Skills & Tools
 
 <div align="center">
@@ -81,14 +86,6 @@ My goal is to grow as a full-stack developer and one day build something meaning
 
 ------
 
-### 📌 Fun Facts
-
-- Aktif ikut bootcamp & kursus gratis  
-- Suka proyek real daripada teori  
-- Punya mimpi kuliah luar negeri & bangun startup edukasi teknologi  
-- ENFJ ✨ — belajar coding, tapi tetap empatik
-
----
 
 <p align="center"><i>"Learning isn't just about code — it's about building something that matters."</i></p>
 
