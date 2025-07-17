@@ -24,13 +24,38 @@ My goal is to grow as a full-stack developer and one day build something meaning
 ### 🧠 Skills & Tools
 
 <div align="center">
-  
-  <img src="https://img.shields.io/badge/Code-PHP-blue?style=for-the-badge&logo=php" />
-  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Backend-Express.js-black?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/DB-MySQL-blue?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Tools-Git-black?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Tools-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode" />
+  ## 🚀 Tech Stack
+
+### 💻 Languages
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+### 🌐 Frontend
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+### 🛠 Backend
+<img src="https://img.shields.io/badge/PHP_Native-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Java_Servlet-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+
+### 🗄️ Database
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+
+### 🔧 Tools & Platforms
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+### ✨ AI & Extensions
+<img src="https://img.shields.io/badge/Cursor_AI-212121?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA..." />
+<img src="https://img.shields.io/badge/Trae_AI-FF6F00?style=for-the-badge" />
 
 </div>
 
@@ -39,17 +64,17 @@ My goal is to grow as a full-stack developer and one day build something meaning
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tzyyuo&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAMEKAMU&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tzyyuo&theme=tokyonight" />
 </div>
 
 -----
 
 <div align="center">
   <h3>Let's Connect!</h3>
-  <a href="mailto:kamu@email.com"><img src="https://img.shields.io/badge/Email-DarkRed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kamu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:zeehan@email.com"><img src="https://img.shields.io/badge/Email-DarkRed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hanadia-ziyyan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
 </div>
 
 ------
