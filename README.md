@@ -43,7 +43,9 @@ My goal is to grow as a full-stack developer and one day build something meaning
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
 ### 🗄️ Database
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
 
 ### 🔧 Tools & Platforms
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -116,7 +118,10 @@ Here are some of my pinned projects:
 - 📖 **English Learning Materials** – Monologues and exercises for high school students
 
 ---
+### 🎧 Coding Music
+[![Lo-fi Chill](https://img.shields.io/badge/🎧_Lo--fi--Beats-Youtube-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=jfKfPfyJRdk)
 
+---
 _"Learning one commit at a time."_ 🧠💡
 _"Code. Learn. Repeat."_ 🔁
 
