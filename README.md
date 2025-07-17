@@ -1,9 +1,20 @@
-<h1 align="center">Hi, I’m Yuze! 💻</h1>
-<p align="center">SMK RPL student & passionate future developer ✨</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I’m+Yuze👋;SMK+RPL+Student;Future+Web+Dev;Love+Tech+%26+People!&center=true&size=20" />
+  
+  <br>
+  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  
+  <h2>Welcome to My GitHub Profile!</h2>
+  
+  <p><i>"Tech is how I express myself. Empathy is how I connect."</i></p>
+</div>
+
+--
 
 ---
 
-### 🌱 Tentang Aku
+### 🌱 TAbout Me
 
 I'm currently learning how to build real, useful software — from backend systems to frontend designs.  
 My goal is to grow as a full-stack developer and one day build something meaningful for others.
