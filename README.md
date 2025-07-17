@@ -14,29 +14,45 @@
 
 ---
 
-### 🌱 TAbout Me
+### 🌱 About Me
 
 I'm currently learning how to build real, useful software — from backend systems to frontend designs.  
 My goal is to grow as a full-stack developer and one day build something meaningful for others.
 
 ---
 
-### 🧰 Stack yang Aku Pakai
+### 🧠 Skills & Tools
 
-- **Frontend**: HTML, CSS, Bootstrap  
-- **Backend**: PHP Native, Java Servlet (belajar), Express.js (eksplorasi)  
-- **Database**: MySQL  
-- **Tools**: Git, VS Code, Postman  
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Code-PHP-blue?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Backend-Express.js-black?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/DB-MySQL-blue?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Tools-Git-black?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Tools-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode" />
 
----
+</div>
 
-### 🚀 Proyek Favorit
+-----
 
-- **BidCar** — Web lelang mobil dengan PHP Native & MySQL  
-- **Personal Portfolio** — Tampilan simpel & responsive pakai HTML, CSS, JS  
-- **Data Entry + Scraper** — Bantu input data ke Google Sheets (masih dikembangin)
+### 📈 GitHub Stats
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAMEKAMU&theme=tokyonight" />
+</div>
+
+-----
+
+<div align="center">
+  <h3>Let's Connect!</h3>
+  <a href="mailto:kamu@email.com"><img src="https://img.shields.io/badge/Email-DarkRed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kamu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+</div>
+
+------
 
 ### 📌 Fun Facts
 
