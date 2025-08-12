@@ -34,6 +34,7 @@ My goal is to grow as a full-stack developer and one day build something meaning
 ### 💻 Languages
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 ### 🌐 Frontend
@@ -46,6 +47,7 @@ My goal is to grow as a full-stack developer and one day build something meaning
 <img src="https://img.shields.io/badge/Java_Servlet-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
 ### 🗄️ Database
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql" />
@@ -57,8 +59,6 @@ My goal is to grow as a full-stack developer and one day build something meaning
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 ### ✨ AI & Extensions
 <img src="https://img.shields.io/badge/Cursor_AI-212121?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA..." />
@@ -93,18 +93,10 @@ I'm a passionate student and developer who loves building web applications and l
 
 ---
 
-### 🔧 Tech Stack
-- 💻 **Languages:** PHP, Java, JavaScript
-- 🌐 **Frontend:** HTML, CSS, Bootstrap
-- 🛠 **Backend:** PHP Native, Java Servlet (learning stage)
-- 🗄️ **Database:** MySQL
-- 🧪 **Tools:** Git, VS Code, XAMPP
-
----
-
 ### 📚 Currently Learning
 - 🧩 Object-Oriented Programming (OOP)
 - ⚙️ Software Design Patterns (Aggregation, Composition)
+- 🐍 Learning python 
 - 📦 Preparing teaching materials (English grammar, comparison degrees)
 
 ---
